@@ -33,8 +33,7 @@ const onResize = () => {
 
 
 	indicador.style.width = `${tamañoIndicador}px`;
-
-.
+	
 	indicador.style.transform = `translateX(${tamañoIndicador * indexSeccionActiva}px)`;
 }
 

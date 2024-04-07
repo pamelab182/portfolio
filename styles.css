@@ -22,12 +22,12 @@ a {
 
 nav {
   position: sticky;
-  background: #747480;
+  background: #B8A1B7;
   top:0;
   left:0;
   display: flex;
   height: 100px;
-  box-shadow: rgba(153, 37, 163, 0.2) 0px 8px 24px;
+  /* box-shadow: rgba(153, 37, 163, 0.2) 0px 8px 24px; */
   display: flex;
   text-decoration: none;
 }
